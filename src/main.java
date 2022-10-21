@@ -20,7 +20,7 @@ public class main {
 			 nom_connexion.close();
 			
 		} catch(SQLException e) {
-			System.out.print("erreur"+ e);
+			System.out.print("erreur"+ e); erreur de sql
 		}*/
 		try {
 			Statement st = nom_connexion.createStatement();
