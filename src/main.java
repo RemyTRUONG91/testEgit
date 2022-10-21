@@ -16,7 +16,7 @@ public class main {
 		}
 		/*try {
 			 Statement st = nom_connexion.createStatement();
-			 st.executeUpdate("INSERT INTO Etat(id,libelle)VALUES(99,'test')");
+			 st.executeUpdate("INSERT INTO Etat(id,libelle)VALUES(99,'test')"); requete insertion
 			 nom_connexion.close();
 			
 		} catch(SQLException e) {
